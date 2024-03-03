@@ -1,0 +1,6 @@
+@Regesteratio_Login_API_WithAuthenAndAuthor_HostAddress = http://localhost:5104
+
+GET {{Regesteratio_Login_API_WithAuthenAndAuthor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

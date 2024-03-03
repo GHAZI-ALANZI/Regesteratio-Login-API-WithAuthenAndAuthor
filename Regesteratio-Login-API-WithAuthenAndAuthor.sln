@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regesteratio-Login-API-WithAuthenAndAuthor", "Regesteratio-Login-API-WithAuthenAndAuthor\Regesteratio-Login-API-WithAuthenAndAuthor.csproj", "{C36647E1-51DB-45B4-B4BA-93C42C032643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C36647E1-51DB-45B4-B4BA-93C42C032643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36647E1-51DB-45B4-B4BA-93C42C032643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36647E1-51DB-45B4-B4BA-93C42C032643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36647E1-51DB-45B4-B4BA-93C42C032643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13AA763-4E0B-4429-9C67-E4D6669AB5FC}
+	EndGlobalSection
+EndGlobal
